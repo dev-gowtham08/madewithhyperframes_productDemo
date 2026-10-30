@@ -6,7 +6,7 @@ An authentic product film built from the preserved directory capture and verifie
 
 Editable compositions are in `videos/made-with-hyperframes/index.html` (36s portrait), `landscape/index.html` (36s landscape) and `cutdown/index.html` (15s portrait). All target 30 fps. The cover is `videos/made-with-hyperframes/renders/cover.png`.
 
-See `videos/made-with-hyperframes/X_REFINEMENT.md`, `BRIEF.md`, `SOURCES_AND_RIGHTS.md` and `RENDERING.md` for the current edit, brief, attribution and reproduction instructions. Final exports are `renders/main-portrait.mp4`, `renders/main-landscape.mp4` and `renders/cutdown-portrait.mp4` inside the video project. QA evidence and limits are in `qa/DELIVERY_REVIEW.md`.
+See `videos/made-with-hyperframes/X_REFINEMENT.md` for the production prompt, `BRIEF.md` for the original brief, `SOURCES_AND_RIGHTS.md` for attribution, and `RENDERING.md` for reproduction instructions. Final exports are `renders/main-portrait.mp4`, `renders/main-landscape.mp4` and `renders/cutdown-portrait.mp4` inside the video project. QA evidence and limits are in `qa/DELIVERY_REVIEW.md`.
 
 To resume export without recapturing or regenerating audio:
 
