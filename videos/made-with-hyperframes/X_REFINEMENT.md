@@ -25,6 +25,8 @@ Use the existing locally generated English narration and the current restrained 
 
 Use only the locally frozen, verified website footage and creator media. Some directory entries have no full prompt; demonstrate the filter and the verified complete-prompt entry. Preserve actual UI labels and creator attribution. Do not invent an editor, generation workflow, testimonials, usage statistics, or guaranteed results.
 
+For the X post accompanying the finished video, include the exact hashtag **#Hyperframes**. Keep the product name and Hyperframes visible in the video opening as specified above. Do not add an unverified account tag or handle.
+
 Deliver a **1080 × 1920 portrait** main film for X at **30 fps**, a separately composed **1920 × 1080 landscape** version, a **15-second portrait cutdown**, a cover, and the editable HyperFrames project. Render to high-quality H.264 MP4 with AAC audio. Inspect the opening, every interaction and transition, the copied state, captions, audio, and the final CTA in the exported files. Fix visible clipping, unreadable text, black frames, missing assets, or timing errors before delivery.
 
 Project evidence and instructions: `BRIEF.md`, `SOURCES_AND_RIGHTS.md`, `RENDERING.md`, and `qa/DELIVERY_REVIEW.md`.

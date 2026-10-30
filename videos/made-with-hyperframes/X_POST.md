@@ -11,6 +11,8 @@ It shows browsing videos, filtering for full prompts, opening a creator's work, 
 Watch the demo ↓
 https://www.madewithhyperframes.com/
 
+#Hyperframes
+
 ## Music credit — add as the first reply
 
 "Origami" by Scott Buckley — released under CC BY 4.0. https://www.scottbuckley.com.au/library/origami/
