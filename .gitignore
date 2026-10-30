@@ -30,3 +30,5 @@ videos/made-with-hyperframes/renders/*
 .vscode/
 *.log
 *.tmp
+__pycache__/
+*.pyc
