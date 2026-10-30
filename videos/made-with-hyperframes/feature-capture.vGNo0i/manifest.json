@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "source": "https://www.madewithhyperframes.com/",
+  "formats": {
+    "portrait": {
+      "filePrefix": "portrait"
+    },
+    "landscape": {
+      "filePrefix": "landscape"
+    }
+  },
+  "searchTitles": [
+    "MacBook Pro × MacBook Air Concept Film",
+    "Cinematic AI Future",
+    "AI in Public Motion Reel",
+    "Taxtello Product Film",
+    "From Earth to the Universe",
+    "Aether Movie Trailer"
+  ],
+  "submissionHref": "https://github.com/dev-gowtham08/awesome-hyperframes/blob/main/CONTRIBUTING.md#video-submissions",
+  "guideText": "Contributing\n\nShare a video, credit its creator, and help others understand how it was made.\n\nSubmit a video without editing files\n\nChoose Issues → New issue → Submit a video, or open the submission template.\n\nInclude the original video link, creator name and profile, tools used, and a short description. Add the exact prompt if it is available for sharing; otherwise, say that you are providing an excerpt or summary.\n\nYou do not need to fork the repository or use VS Code. A maintainer reviews the submission before adding it.\n\nSubmit a pull request\nFork this repository to your GitHub account.\nCr"
+}

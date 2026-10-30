@@ -1,0 +1,32 @@
+# Local dependencies and generated tooling
+node_modules/
+tools/audio-venv/
+tools/capture/node_modules/
+**/.hyperframes/
+**/.media/
+**/.thumbnails/
+**/.waveform-cache/
+
+# Review artifacts and older working captures
+videos/made-with-hyperframes/qa/
+videos/made-with-hyperframes/revisions/
+videos/made-with-hyperframes/capture-retry.*/
+videos/made-with-hyperframes/interaction-capture.*/
+!videos/made-with-hyperframes/interaction-capture.dJDDI6/
+videos/made-with-hyperframes/feature-capture.*/
+!videos/made-with-hyperframes/feature-capture.vGNo0i/
+
+# Keep only the delivered exports in Git
+videos/made-with-hyperframes/renders/*
+!videos/made-with-hyperframes/renders/main-portrait.mp4
+!videos/made-with-hyperframes/renders/made-with-hyperframes_2026-10-30_13-20-25.mp4
+!videos/made-with-hyperframes/renders/main-landscape.mp4
+!videos/made-with-hyperframes/renders/cutdown-portrait.mp4
+!videos/made-with-hyperframes/renders/cover.png
+!videos/made-with-hyperframes/renders/delivery-manifest.json
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+*.log
+*.tmp

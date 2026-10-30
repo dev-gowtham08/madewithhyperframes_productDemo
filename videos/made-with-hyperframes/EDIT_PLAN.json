@@ -1,0 +1,133 @@
+{
+  "fps": 30,
+  "mainDuration": 36,
+  "cutdownDuration": 15,
+  "audioStatus": "local-commercial-review",
+  "revision": "x-landscape-wide",
+  "transition": {
+    "mainSeconds": 0.42,
+    "cutdownSeconds": 0.34,
+    "primary": "paired scene push",
+    "verticalAfter": {
+      "portrait": [
+        "detail",
+        "submit"
+      ],
+      "landscape": [
+        "submit"
+      ],
+      "cutdown": [
+        "submit"
+      ]
+    },
+    "seekSafe": true
+  },
+  "featureCapture": "feature-capture.vGNo0i",
+  "variants": [
+    {
+      "format": "portrait",
+      "scenes": [
+        [
+          "intro",
+          0,
+          6
+        ],
+        [
+          "search",
+          6,
+          3
+        ],
+        [
+          "discovery",
+          9,
+          6
+        ],
+        [
+          "detail",
+          15,
+          4
+        ],
+        [
+          "prompt",
+          19,
+          6
+        ],
+        [
+          "submit",
+          25,
+          6
+        ],
+        [
+          "cta",
+          31,
+          5
+        ]
+      ]
+    },
+    {
+      "format": "landscape",
+      "scenes": [
+        [
+          "intro",
+          0,
+          6
+        ],
+        [
+          "search",
+          6,
+          3
+        ],
+        [
+          "discovery",
+          9,
+          6
+        ],
+        [
+          "detail",
+          15,
+          4
+        ],
+        [
+          "prompt",
+          19,
+          6
+        ],
+        [
+          "submit",
+          25,
+          6
+        ],
+        [
+          "cta",
+          31,
+          5
+        ]
+      ]
+    },
+    {
+      "format": "cutdown",
+      "scenes": [
+        [
+          "intro",
+          0,
+          4
+        ],
+        [
+          "prompt",
+          4,
+          4
+        ],
+        [
+          "submit",
+          8,
+          3.5
+        ],
+        [
+          "cta",
+          11.5,
+          3.5
+        ]
+      ]
+    }
+  ]
+}

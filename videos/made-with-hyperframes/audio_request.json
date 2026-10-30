@@ -1,0 +1,39 @@
+{
+  "provider": "heygen",
+  "voice": "05f19352e8f74b0392a8f411eba40de1",
+  "lang": "en",
+  "lines": [
+    {
+      "id": "01-hook",
+      "text": "Great video. What was the prompt?"
+    },
+    {
+      "id": "02-directory",
+      "text": "Meet Made With Hyperframes. Community videos. Creative starting points."
+    },
+    {
+      "id": "03-discovery",
+      "text": "Explore videos made with Hyperframes and Opus. Filter for full prompts."
+    },
+    {
+      "id": "04-project",
+      "text": "Watch the result. Discover its creator."
+    },
+    {
+      "id": "05-prompt",
+      "text": "Copy the prompt they shared. A starting point for your own idea."
+    },
+    {
+      "id": "06-explore",
+      "text": "From motion graphics to product demos, explore what others are making."
+    },
+    {
+      "id": "07-cta",
+      "text": "Find your next video idea at made with hyperframes dot com."
+    }
+  ],
+  "bgm": {
+    "mode": "retrieve",
+    "query": "warm minimal electronic playful design studio confident pulse restrained percussion no vocals"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "tts_provider": "kokoro",
+  "voice_id": "af_bella",
+  "alignment": "faster-whisper small.en CPU int8",
+  "voices": [
+    {
+      "id": "brandfirst-short-brand",
+      "path": "assets/voice/brandfirst-short-brand.wav",
+      "duration_s": 3.67,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Made",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "id": "w1",
+          "text": "With",
+          "start": 0.2,
+          "end": 0.38
+        },
+        {
+          "id": "w2",
+          "text": "Hyperframes.",
+          "start": 0.38,
+          "end": 1.12
+        },
+        {
+          "id": "w3",
+          "text": "Community",
+          "start": 1.68,
+          "end": 1.9
+        },
+        {
+          "id": "w4",
+          "text": "videos",
+          "start": 1.9,
+          "end": 2.4
+        },
+        {
+          "id": "w5",
+          "text": "and",
+          "start": 2.4,
+          "end": 2.7
+        },
+        {
+          "id": "w6",
+          "text": "shared",
+          "start": 2.7,
+          "end": 2.92
+        },
+        {
+          "id": "w7",
+          "text": "prompts.",
+          "start": 2.92,
+          "end": 3.3
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-short-copy",
+      "path": "assets/voice/brandfirst-short-copy.wav",
+      "duration_s": 2.73,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Find",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "id": "w1",
+          "text": "a",
+          "start": 0.4,
+          "end": 0.54
+        },
+        {
+          "id": "w2",
+          "text": "video.",
+          "start": 0.54,
+          "end": 0.88
+        },
+        {
+          "id": "w3",
+          "text": "Copy",
+          "start": 1.38,
+          "end": 1.64
+        },
+        {
+          "id": "w4",
+          "text": "its",
+          "start": 1.64,
+          "end": 1.9
+        },
+        {
+          "id": "w5",
+          "text": "shared",
+          "start": 1.9,
+          "end": 2.14
+        },
+        {
+          "id": "w6",
+          "text": "prompt.",
+          "start": 2.14,
+          "end": 2.46
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-short-submit",
+      "path": "assets/voice/brandfirst-short-submit.wav",
+      "duration_s": 2.0,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Made",
+          "start": 0.0,
+          "end": 0.22
+        },
+        {
+          "id": "w1",
+          "text": "something?",
+          "start": 0.22,
+          "end": 0.66
+        },
+        {
+          "id": "w2",
+          "text": "Submit",
+          "start": 1.2,
+          "end": 1.36
+        },
+        {
+          "id": "w3",
+          "text": "your",
+          "start": 1.36,
+          "end": 1.54
+        },
+        {
+          "id": "w4",
+          "text": "video.",
+          "start": 1.54,
+          "end": 1.8
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-short-cta",
+      "path": "assets/voice/brandfirst-short-cta.wav",
+      "duration_s": 1.328,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Explore",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "id": "w1",
+          "text": "the",
+          "start": 0.48,
+          "end": 0.64
+        },
+        {
+          "id": "w2",
+          "text": "directory.",
+          "start": 0.64,
+          "end": 1.0
+        }
+      ]
+    }
+  ],
+  "bgm": null,
+  "total_duration_s": 9.728
+}

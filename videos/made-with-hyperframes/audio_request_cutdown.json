@@ -1,0 +1,14 @@
+{
+  "provider": "heygen",
+  "voice": "05f19352e8f74b0392a8f411eba40de1",
+  "lang": "en",
+  "lines": [
+    {
+      "id": "cutdown",
+      "text": "Great video. What was the prompt? Meet Made With Hyperframes. Copy a creator-shared prompt for your next idea. Explore the directory."
+    }
+  ],
+  "bgm": {
+    "mode": "none"
+  }
+}

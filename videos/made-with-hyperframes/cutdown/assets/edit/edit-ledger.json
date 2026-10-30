@@ -1,0 +1,100 @@
+[
+  {
+    "output": "assets/edit/hero-intro.mp4",
+    "source": "assets/edit/hero.mp4",
+    "sourceSeconds": [
+      3.6,
+      10
+    ],
+    "finalFrameHoldSeconds": 2.5,
+    "reason": "Verified holographic-brain opening; avoids cropping source city title in portrait."
+  },
+  {
+    "output": "assets/edit/portrait-discovery.mp4",
+    "source": "interaction-capture.m20iZP/portrait/discovery.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        0,
+        91
+      ],
+      [
+        110,
+        175
+      ],
+      [
+        196,
+        227
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  },
+  {
+    "output": "assets/edit/portrait-detail.mp4",
+    "source": "interaction-capture.m20iZP/portrait/open-detail.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        6,
+        117
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  },
+  {
+    "output": "assets/edit/portrait-copy.mp4",
+    "source": "interaction-capture.m20iZP/portrait/copy-prompt.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        0,
+        78
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  },
+  {
+    "output": "assets/edit/landscape-discovery.mp4",
+    "source": "interaction-capture.m20iZP/landscape/discovery.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        0,
+        111
+      ],
+      [
+        155,
+        236
+      ],
+      [
+        283,
+        307
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  },
+  {
+    "output": "assets/edit/landscape-detail.mp4",
+    "source": "interaction-capture.m20iZP/landscape/open-detail.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        12,
+        123
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  },
+  {
+    "output": "assets/edit/landscape-copy.mp4",
+    "source": "interaction-capture.m20iZP/landscape/copy-prompt.webm",
+    "sourceFrameRangesEndExclusive": [
+      [
+        0,
+        83
+      ]
+    ],
+    "fps": 30,
+    "reason": "Remove screenshot-induced scale/crop artifacts; all retained frames are actual recorded UI."
+  }
+]

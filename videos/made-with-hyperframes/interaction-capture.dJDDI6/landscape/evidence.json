@@ -1,0 +1,281 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 900,
+    "deviceScaleFactor": 2
+  },
+  "clips": {
+    "discovery": {
+      "file": "landscape/discovery.webm",
+      "duration": 15.402580778999981,
+      "fps": 30
+    },
+    "open-detail": {
+      "file": "landscape/open-detail.webm",
+      "duration": 11.013262466999993,
+      "fps": 30
+    },
+    "copy-prompt": {
+      "file": "landscape/copy-prompt.webm",
+      "duration": 8.125963398000051,
+      "fps": 30
+    }
+  },
+  "snapshots": {
+    "directory-home": {
+      "file": "landscape/directory-home.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/"
+    },
+    "filters-before": {
+      "file": "landscape/filters-before.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/"
+    },
+    "tool-selected": {
+      "file": "landscape/tool-selected.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?tool=Hyperframes"
+    },
+    "full-prompt-selected": {
+      "file": "landscape/full-prompt-selected.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?tool=Hyperframes&prompt=full"
+    },
+    "selected-card-context": {
+      "file": "landscape/selected-card-context.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?tool=Hyperframes&prompt=full"
+    },
+    "selected-card": {
+      "file": "landscape/selected-card.png",
+      "selector": ".project-card:has(h3 a[href*=\"cinematic-ai-future-gowtham\"])",
+      "url": "https://www.madewithhyperframes.com/?tool=Hyperframes&prompt=full"
+    },
+    "detail-playing": {
+      "file": "landscape/detail-playing.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "detail-full": {
+      "file": "landscape/detail-full.png",
+      "selector": ".detail-page",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "prompt-before": {
+      "file": "landscape/prompt-before.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "prompt-panel-before": {
+      "file": "landscape/prompt-panel-before.png",
+      "selector": ".detail-prompt-panel",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "prompt-copied": {
+      "file": "landscape/prompt-copied.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "prompt-panel-copied": {
+      "file": "landscape/prompt-panel-copied.png",
+      "selector": ".detail-prompt-panel",
+      "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+    },
+    "category-motion": {
+      "file": "landscape/category-motion.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?category=Motion#explore"
+    },
+    "montage-motion": {
+      "file": "landscape/montage-motion.png",
+      "title": "Article-to-Video Workflow",
+      "creator": "ByFrancesco",
+      "href": "https://www.madewithhyperframes.com/projects/article-to-video-francesco?category=Motion",
+      "category": "Motion"
+    },
+    "category-product-demo": {
+      "file": "landscape/category-product-demo.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?category=Product%20Demo#explore"
+    },
+    "montage-product-demo": {
+      "file": "landscape/montage-product-demo.png",
+      "title": "HyperFrames Studio Showcase",
+      "creator": "Byfaheem",
+      "href": "https://www.madewithhyperframes.com/projects/hyperframes-studio-showcase-faheem?category=Product+Demo",
+      "category": "Product Demo"
+    },
+    "category-explainer": {
+      "file": "landscape/category-explainer.png",
+      "selector": "viewport",
+      "url": "https://www.madewithhyperframes.com/?category=Explainer#explore"
+    },
+    "montage-explainer": {
+      "file": "landscape/montage-explainer.png",
+      "title": "11-Minute Code-Built Explainer",
+      "creator": "ByMiao Yang",
+      "href": "https://www.madewithhyperframes.com/projects/eleven-minute-explainer-miao-yang?category=Explainer",
+      "category": "Explainer"
+    }
+  },
+  "events": [
+    {
+      "clip": "discovery",
+      "seconds": 0.00010058800000115297,
+      "action": "recording-start"
+    },
+    {
+      "clip": "discovery",
+      "seconds": 3.397107128000003,
+      "action": "choose-Hyperframes",
+      "selector": ".tool-tabs button:nth-child(2)",
+      "x": 580.03125,
+      "y": 123.375,
+      "box": {
+        "x": 541.34375,
+        "y": 100.375,
+        "height": 46,
+        "width": 77.375
+      }
+    },
+    {
+      "clip": "discovery",
+      "seconds": 10.695334229,
+      "action": "enable-Full-prompt",
+      "selector": ".prompt-filter",
+      "x": 1198.4375,
+      "y": 123.375,
+      "box": {
+        "x": 1129.875,
+        "y": 101.375,
+        "height": 44,
+        "width": 137.125
+      }
+    },
+    {
+      "clip": "open-detail",
+      "seconds": 0.00019967599998926743,
+      "action": "recording-start"
+    },
+    {
+      "clip": "open-detail",
+      "seconds": 3.6520100649999803,
+      "action": "open-Cinematic-AI-Future",
+      "selector": ".project-card:has(h3 a[href*=\"cinematic-ai-future-gowtham\"]) h3 a",
+      "x": 589.140625,
+      "y": 582.609375,
+      "box": {
+        "x": 497.328125,
+        "y": 571.109375,
+        "height": 23,
+        "width": 183.625
+      }
+    },
+    {
+      "clip": "copy-prompt",
+      "seconds": 0.00014804900001036004,
+      "action": "recording-start"
+    },
+    {
+      "clip": "copy-prompt",
+      "seconds": 3.052984845000028,
+      "action": "click-Copy-prompt",
+      "selector": ".prompt-copy",
+      "x": 1113.6640625,
+      "y": 380.375,
+      "box": {
+        "x": 1048.328125,
+        "y": 360.375,
+        "height": 40,
+        "width": 130.671875
+      }
+    },
+    {
+      "clip": "copy-prompt",
+      "seconds": 3.1109946460000355,
+      "action": "Copied-visible-and-clipboard-verified"
+    }
+  ],
+  "consoleErrors": [],
+  "filteredCards": [
+    {
+      "title": "MacBook Pro × MacBook Air Concept Film",
+      "fullPrompt": true,
+      "creator": "ByGowtham"
+    },
+    {
+      "title": "Cinematic AI Future",
+      "fullPrompt": true,
+      "creator": "ByGowtham"
+    },
+    {
+      "title": "What Day Is It?",
+      "fullPrompt": true,
+      "creator": "Bykazu@生成AI×教育"
+    },
+    {
+      "title": "Enxovaly Baby App Showreel",
+      "fullPrompt": true,
+      "creator": "ByGabriel Buzzi"
+    },
+    {
+      "title": "HyperFrames Product Teaser",
+      "fullPrompt": true,
+      "creator": "ByJake Moran"
+    }
+  ],
+  "selectedCardBox": {
+    "x": 495.328125,
+    "y": 281.375,
+    "height": 337.9375,
+    "width": 449.328125
+  },
+  "selectedVideoBox": {
+    "x": 495.328125,
+    "y": 281.375,
+    "height": 252.734375,
+    "width": 449.328125
+  },
+  "detail": {
+    "title": "Cinematic AI Future",
+    "creator": "By Gowtham ↗",
+    "facts": "Made withHyperframesCategoryAIDuration0:10",
+    "prompt": "Create a cinematic AI future video with neon cities, a glowing holographic brain, and connected Earth. Add smooth transitions, purple-blue lighting, animated visuals, and futuristic background music.",
+    "note": "Prompt shared by the creator.",
+    "structured": [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Cinematic AI Future",
+        "description": "Cinematic AI Future by Gowtham: an AI video made with Hyperframes (0:10). Includes the full prompt.",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2112189658788728832/img/lHX6hjJdT0CtwATy.jpg",
+        "uploadDate": "2026-10-19T14:31:50.000Z",
+        "duration": "PT0M10S",
+        "contentUrl": "https://video.twimg.com/amplify_video/2112189658788728832/pl/8A6pJviRPKNsUel6.m3u8?tag=14",
+        "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham",
+        "creator": {
+          "@type": "Person",
+          "name": "Gowtham",
+          "url": "https://x.com/gowthamtj0808"
+        }
+      }
+    ],
+    "url": "https://www.madewithhyperframes.com/projects/cinematic-ai-future-gowtham?tool=Hyperframes&prompt=full"
+  },
+  "playback": {
+    "firstTime": 0.310881,
+    "lastTime": 1.645737,
+    "verified": true
+  },
+  "copy": {
+    "label": "Copied",
+    "clipboardMatchesFullPrompt": true,
+    "buttonBox": {
+      "x": 1082.328125,
+      "y": 360.375,
+      "height": 40,
+      "width": 96.671875
+    }
+  }
+}

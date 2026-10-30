@@ -1,0 +1,46 @@
+{
+  "cli": "0.8.221",
+  "revision": "x-landscape-wide-2026-10-30",
+  "exports": [
+    {
+      "file": "main-portrait.mp4",
+      "bytes": 11442600,
+      "sha256": "7221995bf59e87ec11e033770ee0e3e14fcf63b587469ccd5db321f2602ad9fe",
+      "duration": 36.01,
+      "fps": 30,
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "file": "main-landscape.mp4",
+      "bytes": 9683056,
+      "sha256": "8d41c40b3f43184a7ef55b7b31d2b536cc8eba14a4c8f133c3c064c51169ed40",
+      "duration": 36.01,
+      "fps": 30,
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "cutdown-portrait.mp4",
+      "bytes": 4813871,
+      "sha256": "1ad6226c581016fbc6eceb810db4a947f7be1e7be59460c0bf5b807851320d54",
+      "duration": 15.02,
+      "fps": 30,
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "cover": "cover.png",
+  "editableProjects": [
+    "../index.html",
+    "../landscape/index.html",
+    "../cutdown/index.html"
+  ],
+  "qa": "../qa/DELIVERY_REVIEW.md",
+  "voice": {
+    "model": "Kokoro-82M",
+    "voice": "af_bella",
+    "license": "Apache-2.0",
+    "method": "longer generated passages split at measured sentence pauses"
+  }
+}

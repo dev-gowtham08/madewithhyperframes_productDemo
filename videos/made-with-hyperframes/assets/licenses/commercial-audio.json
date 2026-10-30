@@ -1,0 +1,21 @@
+[
+  {
+    "type": "voice",
+    "provider": "kokoro-onnx",
+    "model": "Kokoro-82M",
+    "voice": "af_heart",
+    "license": "Apache-2.0",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "timing": "faster-whisper small.en; FFmpeg PCM input fixes incompatible PyAV metadata_errors parameter"
+  },
+  {
+    "title": "Origami",
+    "creator": "Scott Buckley",
+    "source": "https://www.scottbuckley.com.au/library/origami/",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "credit": "'Origami' by Scott Buckley — released under CC-BY 4.0. www.scottbuckley.com.au",
+    "modifications": "Excerpted from 16s, normalized, faded and mixed under narration.",
+    "sha256": "8b8edd81ee2110a62169b48e3233e1556c0f9de10003b21f41a28e5b4bcbfe14"
+  }
+]

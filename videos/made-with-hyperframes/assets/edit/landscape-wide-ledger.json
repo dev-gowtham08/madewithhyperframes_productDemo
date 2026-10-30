@@ -1,0 +1,17 @@
+{
+  "asset": "assets/edit/landscape-discovery-wide.mp4",
+  "source": "interaction-capture.dJDDI6/landscape/discovery.webm",
+  "rangesSeconds": [
+    [
+      2.5,
+      5
+    ],
+    [
+      9.5,
+      12.25
+    ]
+  ],
+  "lastFrameHoldSeconds": 1.17,
+  "reason": "Preserve real Hyperframes tool and Full prompt clicks; exclude temporary browser-scale artifact",
+  "sha256": "a73d6a50143b56994ff80a49f687f1cf0d9d306b2ff48854df245ada96638e50"
+}

@@ -1,0 +1,42 @@
+{
+  "provider": "kokoro",
+  "voice": "af_bella",
+  "speed": 0.98,
+  "bgm": {
+    "mode": "none"
+  },
+  "lines": [
+    {
+      "id": "brandfirst-brand",
+      "text": "Made With Hyperframes."
+    },
+    {
+      "id": "brandfirst-directory",
+      "text": "A community directory of videos made with Hyperframes and Opus."
+    },
+    {
+      "id": "brandfirst-search",
+      "text": "Search for ideas. Browse by tool or category."
+    },
+    {
+      "id": "brandfirst-filter",
+      "text": "Choose Full prompt."
+    },
+    {
+      "id": "brandfirst-watch",
+      "text": "Watch the video. Discover its creator."
+    },
+    {
+      "id": "brandfirst-copy",
+      "text": "Copy the prompt they shared. A starting point for your own idea."
+    },
+    {
+      "id": "brandfirst-submit",
+      "text": "Made something? Submit your video through the contribution guide."
+    },
+    {
+      "id": "brandfirst-cta",
+      "text": "Explore the directory at made with hyperframes dot com."
+    }
+  ]
+}

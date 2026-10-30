@@ -1,0 +1,158 @@
+{
+  "capture": "feature-capture.vGNo0i",
+  "interaction": "interaction-capture.dJDDI6",
+  "files": [
+    {
+      "output": "assets/edit/portrait-feature-home.png",
+      "source": "feature-capture.vGNo0i/portrait/home.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-browse.png",
+      "source": "feature-capture.vGNo0i/portrait/browse.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-search-result.png",
+      "source": "feature-capture.vGNo0i/portrait/search-result.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-submit-click.png",
+      "source": "feature-capture.vGNo0i/portrait/submit-click.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-submission-guide.png",
+      "source": "feature-capture.vGNo0i/portrait/submission-guide.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-search.mp4",
+      "source": "feature-capture.vGNo0i/portrait/search.webm",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-feature-submit.mp4",
+      "source": "feature-capture.vGNo0i/portrait/submit.webm",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-discovery.mp4",
+      "source": "interaction-capture.dJDDI6/portrait/discovery.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          0,
+          91
+        ],
+        [
+          110,
+          175
+        ],
+        [
+          196,
+          227
+        ]
+      ],
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-detail.mp4",
+      "source": "interaction-capture.dJDDI6/portrait/open-detail.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          6,
+          117
+        ]
+      ],
+      "verified": true
+    },
+    {
+      "output": "assets/edit/portrait-copy.mp4",
+      "source": "interaction-capture.dJDDI6/portrait/copy-prompt.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          0,
+          78
+        ]
+      ],
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-home.png",
+      "source": "feature-capture.vGNo0i/landscape/home.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-browse.png",
+      "source": "feature-capture.vGNo0i/landscape/browse.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-search-result.png",
+      "source": "feature-capture.vGNo0i/landscape/search-result.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-submit-click.png",
+      "source": "feature-capture.vGNo0i/landscape/submit-click.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-submission-guide.png",
+      "source": "feature-capture.vGNo0i/landscape/submission-guide.png",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-search.mp4",
+      "source": "feature-capture.vGNo0i/landscape/search.webm",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-feature-submit.mp4",
+      "source": "feature-capture.vGNo0i/landscape/submit.webm",
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-discovery.mp4",
+      "source": "interaction-capture.dJDDI6/landscape/discovery.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          0,
+          111
+        ],
+        [
+          155,
+          236
+        ],
+        [
+          283,
+          307
+        ]
+      ],
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-detail.mp4",
+      "source": "interaction-capture.dJDDI6/landscape/open-detail.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          12,
+          123
+        ]
+      ],
+      "verified": true
+    },
+    {
+      "output": "assets/edit/landscape-copy.mp4",
+      "source": "interaction-capture.dJDDI6/landscape/copy-prompt.webm",
+      "sourceFrameRangesEndExclusive": [
+        [
+          0,
+          83
+        ]
+      ],
+      "verified": true
+    }
+  ]
+}

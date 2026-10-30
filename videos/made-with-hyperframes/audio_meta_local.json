@@ -1,0 +1,425 @@
+{
+  "tts_provider": "kokoro",
+  "voice_id": "af_bella",
+  "alignment": "faster-whisper small.en CPU int8",
+  "voices": [
+    {
+      "id": "brandfirst-brand",
+      "path": "assets/voice/brandfirst-brand.wav",
+      "duration_s": 1.58,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Made",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "id": "w1",
+          "text": "With",
+          "start": 0.24,
+          "end": 0.42
+        },
+        {
+          "id": "w2",
+          "text": "Hyperframes.",
+          "start": 0.42,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-directory",
+      "path": "assets/voice/brandfirst-directory.wav",
+      "duration_s": 3.967,
+      "words": [
+        {
+          "id": "w0",
+          "text": "A",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "id": "w1",
+          "text": "community",
+          "start": 0.44,
+          "end": 0.74
+        },
+        {
+          "id": "w2",
+          "text": "directory",
+          "start": 0.74,
+          "end": 1.26
+        },
+        {
+          "id": "w3",
+          "text": "of",
+          "start": 1.26,
+          "end": 1.5
+        },
+        {
+          "id": "w4",
+          "text": "videos",
+          "start": 1.5,
+          "end": 1.84
+        },
+        {
+          "id": "w5",
+          "text": "made",
+          "start": 1.84,
+          "end": 2.16
+        },
+        {
+          "id": "w6",
+          "text": "with",
+          "start": 2.16,
+          "end": 2.38
+        },
+        {
+          "id": "w7",
+          "text": "Hyperframes",
+          "start": 2.38,
+          "end": 3.04
+        },
+        {
+          "id": "w8",
+          "text": "and",
+          "start": 3.04,
+          "end": 3.36
+        },
+        {
+          "id": "w9",
+          "text": "Opus.",
+          "start": 3.36,
+          "end": 3.84
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-search",
+      "path": "assets/voice/brandfirst-search.wav",
+      "duration_s": 3.28,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Search",
+          "start": 0.0,
+          "end": 0.26
+        },
+        {
+          "id": "w1",
+          "text": "for",
+          "start": 0.26,
+          "end": 0.52
+        },
+        {
+          "id": "w2",
+          "text": "ideas.",
+          "start": 0.52,
+          "end": 0.98
+        },
+        {
+          "id": "w3",
+          "text": "Browse",
+          "start": 1.8,
+          "end": 1.8
+        },
+        {
+          "id": "w4",
+          "text": "by",
+          "start": 1.8,
+          "end": 2.12
+        },
+        {
+          "id": "w5",
+          "text": "tool",
+          "start": 2.12,
+          "end": 2.36
+        },
+        {
+          "id": "w6",
+          "text": "or",
+          "start": 2.36,
+          "end": 2.62
+        },
+        {
+          "id": "w7",
+          "text": "category.",
+          "start": 2.62,
+          "end": 3.02
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-filter",
+      "path": "assets/voice/brandfirst-filter.wav",
+      "duration_s": 1.349,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Choose",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "id": "w1",
+          "text": "Full",
+          "start": 0.48,
+          "end": 0.8
+        },
+        {
+          "id": "w2",
+          "text": "Prompt.",
+          "start": 0.8,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-watch",
+      "path": "assets/voice/brandfirst-watch.wav",
+      "duration_s": 2.65,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Watch",
+          "start": 0.0,
+          "end": 0.28
+        },
+        {
+          "id": "w1",
+          "text": "the",
+          "start": 0.28,
+          "end": 0.48
+        },
+        {
+          "id": "w2",
+          "text": "video.",
+          "start": 0.48,
+          "end": 0.86
+        },
+        {
+          "id": "w3",
+          "text": "Discover",
+          "start": 1.52,
+          "end": 1.58
+        },
+        {
+          "id": "w4",
+          "text": "its",
+          "start": 1.58,
+          "end": 1.92
+        },
+        {
+          "id": "w5",
+          "text": "creator.",
+          "start": 1.92,
+          "end": 2.26
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-copy",
+      "path": "assets/voice/brandfirst-copy.wav",
+      "duration_s": 4.027,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Copy",
+          "start": 0.0,
+          "end": 0.5
+        },
+        {
+          "id": "w1",
+          "text": "the",
+          "start": 0.5,
+          "end": 0.68
+        },
+        {
+          "id": "w2",
+          "text": "prompt",
+          "start": 0.68,
+          "end": 0.88
+        },
+        {
+          "id": "w3",
+          "text": "they",
+          "start": 0.88,
+          "end": 1.12
+        },
+        {
+          "id": "w4",
+          "text": "shared.",
+          "start": 1.12,
+          "end": 1.52
+        },
+        {
+          "id": "w5",
+          "text": "A",
+          "start": 1.96,
+          "end": 2.08
+        },
+        {
+          "id": "w6",
+          "text": "starting",
+          "start": 2.08,
+          "end": 2.4
+        },
+        {
+          "id": "w7",
+          "text": "point",
+          "start": 2.4,
+          "end": 2.72
+        },
+        {
+          "id": "w8",
+          "text": "for",
+          "start": 2.72,
+          "end": 3.0
+        },
+        {
+          "id": "w9",
+          "text": "your",
+          "start": 3.0,
+          "end": 3.14
+        },
+        {
+          "id": "w10",
+          "text": "own",
+          "start": 3.14,
+          "end": 3.36
+        },
+        {
+          "id": "w11",
+          "text": "idea.",
+          "start": 3.36,
+          "end": 3.72
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-submit",
+      "path": "assets/voice/brandfirst-submit.wav",
+      "duration_s": 4.04,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Made",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "id": "w1",
+          "text": "something?",
+          "start": 0.24,
+          "end": 0.7
+        },
+        {
+          "id": "w2",
+          "text": "Submit",
+          "start": 1.36,
+          "end": 1.52
+        },
+        {
+          "id": "w3",
+          "text": "your",
+          "start": 1.52,
+          "end": 1.74
+        },
+        {
+          "id": "w4",
+          "text": "video",
+          "start": 1.74,
+          "end": 2.06
+        },
+        {
+          "id": "w5",
+          "text": "through",
+          "start": 2.06,
+          "end": 2.38
+        },
+        {
+          "id": "w6",
+          "text": "the",
+          "start": 2.38,
+          "end": 2.54
+        },
+        {
+          "id": "w7",
+          "text": "contribution",
+          "start": 2.54,
+          "end": 3.0
+        },
+        {
+          "id": "w8",
+          "text": "guide.",
+          "start": 3.0,
+          "end": 3.58
+        }
+      ]
+    },
+    {
+      "id": "brandfirst-cta",
+      "path": "assets/voice/brandfirst-cta.wav",
+      "duration_s": 3.533,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Explore",
+          "start": 0.0,
+          "end": 0.52
+        },
+        {
+          "id": "w1",
+          "text": "the",
+          "start": 0.52,
+          "end": 0.7
+        },
+        {
+          "id": "w2",
+          "text": "directory",
+          "start": 0.7,
+          "end": 1.08
+        },
+        {
+          "id": "w3",
+          "text": "at",
+          "start": 1.08,
+          "end": 1.36
+        },
+        {
+          "id": "w4",
+          "text": "made",
+          "start": 1.36,
+          "end": 1.6
+        },
+        {
+          "id": "w5",
+          "text": "with",
+          "start": 1.6,
+          "end": 1.86
+        },
+        {
+          "id": "w6",
+          "text": "hyperframes",
+          "start": 1.86,
+          "end": 2.6
+        },
+        {
+          "id": "w7",
+          "text": "dot",
+          "start": 2.6,
+          "end": 2.94
+        },
+        {
+          "id": "w8",
+          "text": "com.",
+          "start": 2.94,
+          "end": 3.34
+        }
+      ]
+    }
+  ],
+  "bgm": null,
+  "total_duration_s": 24.426
+}

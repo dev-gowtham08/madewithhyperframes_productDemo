@@ -1,0 +1,150 @@
+{
+  "tts_provider": "heygen",
+  "voice_id": "05f19352e8f74b0392a8f411eba40de1",
+  "bgm": null,
+  "bgm_pending": false,
+  "bgm_provider": null,
+  "bgm_pid": null,
+  "bgm_log": null,
+  "bgm_mode": null,
+  "bgm_target_duration_s": null,
+  "bgm_seed_duration_s": null,
+  "bgm_loop_count": null,
+  "voices": [
+    {
+      "id": "cutdown",
+      "path": "assets/voice/cutdown.wav",
+      "duration_s": 9.77,
+      "words": [
+        {
+          "id": "w0",
+          "text": "Great",
+          "start": 0.256,
+          "end": 0.469
+        },
+        {
+          "id": "w1",
+          "text": "video.",
+          "start": 0.555,
+          "end": 0.853
+        },
+        {
+          "id": "w2",
+          "text": "What",
+          "start": 1.067,
+          "end": 1.195
+        },
+        {
+          "id": "w3",
+          "text": "was",
+          "start": 1.237,
+          "end": 1.3227
+        },
+        {
+          "id": "w4",
+          "text": "the",
+          "start": 1.365,
+          "end": 1.493
+        },
+        {
+          "id": "w5",
+          "text": "prompt?",
+          "start": 1.536,
+          "end": 2.005
+        },
+        {
+          "id": "w6",
+          "text": "Meet",
+          "start": 2.219,
+          "end": 2.4747
+        },
+        {
+          "id": "w7",
+          "text": "Made",
+          "start": 2.603,
+          "end": 2.816
+        },
+        {
+          "id": "w8",
+          "text": "With",
+          "start": 2.944,
+          "end": 3.072
+        },
+        {
+          "id": "w9",
+          "text": "Hyperframes.",
+          "start": 3.157,
+          "end": 4.096
+        },
+        {
+          "id": "w10",
+          "text": "Copy",
+          "start": 4.437,
+          "end": 4.9067
+        },
+        {
+          "id": "w11",
+          "text": "a",
+          "start": 4.992,
+          "end": 5.12
+        },
+        {
+          "id": "w12",
+          "text": "creator-shared",
+          "start": 5.163,
+          "end": 6.016
+        },
+        {
+          "id": "w13",
+          "text": "prompt",
+          "start": 6.144,
+          "end": 6.528
+        },
+        {
+          "id": "w14",
+          "text": "for",
+          "start": 6.656,
+          "end": 6.912
+        },
+        {
+          "id": "w15",
+          "text": "your",
+          "start": 6.955,
+          "end": 7.0827
+        },
+        {
+          "id": "w16",
+          "text": "next",
+          "start": 7.125,
+          "end": 7.296
+        },
+        {
+          "id": "w17",
+          "text": "idea.",
+          "start": 7.467,
+          "end": 7.936
+        },
+        {
+          "id": "w18",
+          "text": "Explore",
+          "start": 8.277,
+          "end": 8.789
+        },
+        {
+          "id": "w19",
+          "text": "the",
+          "start": 8.917,
+          "end": 9.0027
+        },
+        {
+          "id": "w20",
+          "text": "directory.",
+          "start": 9.045,
+          "end": 9.709614512471655
+        }
+      ]
+    }
+  ],
+  "sfx": [],
+  "total_duration_s": 9.77
+}
